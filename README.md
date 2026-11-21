@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- Animated Gradient Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:EC4899&height=220&section=header&text=Long182k&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Robotics%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20DevSecOps&descAlignY=56&descSize=16&animation=fadeIn" alt="Long182k Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:EC4899&height=220&section=header&text=Drakez%20Dev&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Robotics%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20DevSecOps&descAlignY=56&descSize=16&animation=fadeIn" alt="Drakez Dev Header" />
 
 <!-- Dynamic Typing Subtitle -->
-<a href="https://github.com/Long182k">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=780&height=45&lines=Full-Stack+Software+Engineer+%E2%80%A2+4.5%2B+Years+Experience;Powering+~180+Autonomous+Mobile+Robots+(AMRs)+%40+VinRobotics;TypeScript+%E2%80%A2+Go+%E2%80%A2+React+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+RabbitMQ;Event-Driven+Architecture+%E2%80%A2+Real-Time+Systems+%E2%80%A2+DevSecOps" alt="Typing SVG" />
+<a href="https://github.com/Long182k" target="_blank" rel="noopener noreferrer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=860&height=45&lines=Full-Stack+Software+Engineer+%E2%80%A2+4.5%2B+Years+Experience;Powering+~180+Autonomous+Mobile+Robots+(AMRs)+%40+VinRobotics;TypeScript+%E2%80%A2+Go+%E2%80%A2+React+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+RabbitMQ;Event-Driven+Architecture+%E2%80%A2+Real-Time+Systems+%E2%80%A2+DevSecOps" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social & Quick Info Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/drakenguyen1820" target="_blank">
+  <a href="https://www.linkedin.com/in/drakenguyen1820" target="_blank" rel="noopener noreferrer">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://drake-porfolio.vercel.app/" target="_blank">
+  <a href="https://drake-porfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <img src="https://img.shields.io/badge/Ho_Chi_Minh_City-Vietnam-EC4899?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ho Chi Minh City, Vietnam" />
@@ -214,10 +214,10 @@ const engineer = {
 ### 💬 Let's Connect!
 Always happy to talk about **Full-Stack Architecture**, **Event-Driven Systems**, **Robotics/Manufacturing Tech**, or **DevSecOps**.
 
-<a href="https://www.linkedin.com/in/drakenguyen1820" target="_blank">
+<a href="https://www.linkedin.com/in/drakenguyen1820" target="_blank" rel="noopener noreferrer">
   <img src="https://custom-icon-badges.demolab.com/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="Connect on LinkedIn" />
 </a>
-<a href="https://github.com/Long182k" target="_blank">
+<a href="https://github.com/Long182k" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Follow_%40Long182k-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
 </a>
 
