@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <img src="https://img.shields.io/badge/Ho_Chi_Minh_City-Vietnam-EC4899?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ho Chi Minh City, Vietnam" />
-  <img src="https://komarev.com/ghpvc/?username=Long182k&label=Profile+Views&color=06B6D4&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
