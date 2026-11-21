@@ -35,7 +35,7 @@ const engineer = {
   role: "Full-Stack Software Engineer",
   currentCompany: "VinRobotics",
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
-  experience: "4.5+ years (2022 – Present)",
+  experience: "~5 years (2022 – Present)",
   specialties: [
     "Real-Time Manufacturing & AMR Fleet Systems (~180 Robots)",
     "Event-Driven & High-Concurrency Backend Architecture",
