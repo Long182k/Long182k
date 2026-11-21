@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing Subtitle -->
 <a href="https://github.com/Long182k" target="_blank" rel="noopener noreferrer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=860&height=45&lines=Full-Stack+Software+Engineer+%E2%80%A2+4.5%2B+Years+Experience;Powering+~180+Autonomous+Mobile+Robots+(AMRs)+%40+VinRobotics;TypeScript+%E2%80%A2+Go+%E2%80%A2+React+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+RabbitMQ;Event-Driven+Architecture+%E2%80%A2+Real-Time+Systems+%E2%80%A2+DevSecOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=860&height=45&lines=Full-Stack+Software+Engineer+%E2%80%A2+~5+Years+Experience;Powering+~180+Autonomous+Mobile+Robots+(AMRs)+%40+VinRobotics;TypeScript+%E2%80%A2+Go+%E2%80%A2+React+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+RabbitMQ;Event-Driven+Architecture+%E2%80%A2+Real-Time+Systems+%E2%80%A2+DevSecOps" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -46,7 +46,6 @@ const engineer = {
     "TypeScript", "Go (Golang)", "React", "React Native",
     "Node.js", "NestJS", "PostgreSQL", "Redis", "RabbitMQ",
   ],
-  mentorship: "Guiding fresher & junior engineers via reviews & debugging",
 };
 ```
 
@@ -150,7 +149,7 @@ const engineer = {
 
 - Build and maintain full-stack production systems (web dashboards, PDA apps, backend services) supporting manufacturing operations and **~180 Autonomous Mobile Robots (AMRs)**.
 - Architect **event-driven & real-time workflows** (**Go/Golang**, React, TypeScript, NestJS, PostgreSQL, Redis, RabbitMQ, SSE, WebSocket) with **SAP integration** and **concurrency controls** for production-order assignment.
-- Drive **DevSecOps & production observability** using Prometheus, Grafana, Argo, Gitleaks, Semgrep/Gosec/MobSF, Trivy, CycloneDX SBOMs, Dependency-Track/VinSOC, and DefectDojo; mentor fresher & junior engineers.
+- Drive **DevSecOps & production observability** using Prometheus, Grafana, Argo, Gitleaks, Semgrep/Gosec/MobSF, Trivy, CycloneDX SBOMs, Dependency-Track/VinSOC, and DefectDojo.
 
 <details>
 <summary><b>🔎 View detailed responsibilities at VinRobotics</b></summary>
@@ -160,7 +159,7 @@ const engineer = {
 - Designed **concurrency controls** for production-order assignment to prevent race conditions, duplicate processing, and conflicting operator actions.
 - Monitored production services and troubleshot incidents using **Prometheus, Grafana, Argo**, application logs, and live metrics.
 - Strengthened Secure SDLC with pre-commit hooks, **Gitleaks** secret scanning, **Semgrep / Gosec / MobSF** SAST, **Trivy** SCA/IaC/container scanning, **CycloneDX SBOM** generation, **Dependency-Track / VinSOC**, and **DefectDojo** remediation tracking.
-- Supported Docker-based CI/CD releases and mentored junior/fresher developers via code reviews, architecture guidance, and debugging.
+- Supported CI/CD, Docker-based deployments, release processes, and production reliability.
 
 </details>
 
