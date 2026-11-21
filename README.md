@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-Hi! I'm **Long** (`@Long182k`), a **Full-Stack Software Engineer** based in **Ho Chi Minh City, Vietnam** with **4.5+ years of production experience** building real-time, event-driven, and mission-critical systems across **smart manufacturing & robotics**, **enterprise logistics (WMS)**, and **insurance platforms**.
+Hi! I'm **Drake**, a **Full-Stack Software Engineer** based in **Ho Chi Minh City, Vietnam** with **~5 years of production experience** building real-time, event-driven, and mission-critical systems across **smart manufacturing & robotics**, **enterprise logistics (WMS)**, and **insurance platforms**.
 
 ```ts
 const engineer = {
